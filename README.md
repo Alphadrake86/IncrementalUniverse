@@ -1,3 +1,4 @@
-# IdleGame
-its here. do what you need. put anything here that might be helpful to me.
-<br>Start here
+# Incremental Universe
+Nothing to see here yet. 
+The game is still an idea, so no code has been done yet.
+We are expecting some programming to happen within the next couple of weeks.
